@@ -1,2 +1,3 @@
-# belajar-kolaborasi
-buat kepentingan kolaborasi belajar git dicoding
+# Belajar Kolaborasi
+Untuk kepentingan kolaborasi belajar git dicoding </br>
+Belajar Git sangat Menyenangkan
